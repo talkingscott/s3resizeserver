@@ -1,0 +1,19 @@
+{
+  "name": "resize",
+  "version": "0.0.1",
+  "description": "resize images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.2.39",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0",
+    "node-gd": "^1.1.0",
+    "semaphore": "^1.0.5",
+    "sharp": "^0.13.1"
+  },
+  "author": "talkingscott",
+  "license": "MIT"
+}
